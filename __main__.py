@@ -1,6 +1,3 @@
-# 009-C105-StandardDeviation
-# This is a python script made by @somePythonProgrammer
-# for a WhiteHat Junior project.
 
 import csv
 
